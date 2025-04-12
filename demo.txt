@@ -1,1 +1,2 @@
 Welcome to git and github training.
+It's newly added line.
